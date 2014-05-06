@@ -9,8 +9,8 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-    metadata:
-      _posts:
-        - name: "category"
-          field:
-          element: "hidden"
+  metadata:
+    _posts:
+    - name: "category"
+      field:
+      element: "hidden"
