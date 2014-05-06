@@ -4,8 +4,13 @@ pygments: true
 prose:
   rooturl: '_posts'
   siteurl: 'st-peters-001.github.io'
-ignore:
+  ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
+    metadata:
+      _posts:
+        - name: "category"
+          field:
+          element: "hidden"
