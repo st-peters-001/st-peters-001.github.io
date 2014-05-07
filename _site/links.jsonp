@@ -1,8 +1,18 @@
 callback([
 
   {
-    "text": "About",
-    "href": "/about/"
+    "text": "About Us",
+    "href": "/about-us/"
+  } ,
+
+  {
+    "text": "Contact",
+    "href": "/contact/"
+  } ,
+
+  {
+    "text": "Information",
+    "href": "/information/"
   } ,
 
   {
