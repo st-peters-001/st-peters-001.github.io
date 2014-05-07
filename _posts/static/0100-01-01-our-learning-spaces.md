@@ -1,7 +1,7 @@
 ---
 published: true
 layout: page
-permalink: learning-spaces/
+permalink: our-learning-spaces/
 ---
  
 We set up our environment in a way that evokes a home like feel. Providing our children with 
@@ -28,6 +28,23 @@ environment and developing an environmental awareness.
 natural world and shares the responsibility for caring for it”* – Richard Louv.
 
 ![Photo of a Box of Objects](/img/box.jpg)
+
+##Some of our learning spaces
+
+![Our picnic table and stage](/img/light.jpg)
+The light table, this space allows for exploration of light, colour and shadow. 
+
+![Our picnic table and stage](/img/slide.jpg)
+The fort, an open ended construction in our playground, providing endless opportunities for imaginative play and exploration.
+
+![Tree](/img/tree.jpg)
+The fairy garden, a natural and beautiful space where children can explore and discover.
+
+![Our picnic table and stage](/img/equipment.jpg)
+Our picnic table and stage. This space is used for various experiences, being another open ended and natural space where children can be. 
+
+![An example of a block/construction experience](/img/blocks.jpg)
+An example of a block/construction experience. 
  
  
  

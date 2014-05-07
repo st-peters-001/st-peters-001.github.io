@@ -6,8 +6,8 @@ callback([
   } ,
 
   {
-    "text": "Educators",
-    "href": "/educators/"
+    "text": "Docs",
+    "href": "/our-documentation/"
   } ,
 
   {
@@ -16,18 +16,28 @@ callback([
   } ,
 
   {
-    "text": "Learning Spaces",
-    "href": "/learning-spaces/"
+    "text": "Our Documentation",
+    "href": "/our-documentation/"
   } ,
 
   {
-    "text": "Philosophy",
-    "href": "/philosophy/"
+    "text": "Our Educators",
+    "href": "/our-educators/"
   } ,
 
   {
-    "text": "Program",
-    "href": "/program/"
+    "text": "Our Learning Spaces",
+    "href": "/our-learning-spaces/"
+  } ,
+
+  {
+    "text": "Our Philosophy",
+    "href": "/our-philosophy/"
+  } ,
+
+  {
+    "text": "Our Program",
+    "href": "/our-program/"
   } ,
 
   {
