@@ -16,15 +16,15 @@ title: 'St Peters Community Preschool'
     <div class='col12 clearfix'>
       <div class='header col6 margin3 pad4h'>
 
-          <a href="{{site.baseurl}}/" alt="logo"><img class="col3"src="{{site.baseurl}}/img/logo.jpg"></img>
-          <h1 class='col8 pad4h heading'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+          <a href="{{site.baseurl}}/" alt="logo"><img class="col3 hide-mobile "src="{{site.baseurl}}/img/logo.jpg"></img>
+          <h1 class='col7 pad4h heading'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
 
         <div class='clearfix col12'>
           <div class='menu fl'>
-            <a class='{% if page.url == "about-us/" %}active{% endif %}' href='{{site.baseurl}}/'>About Us</a> 
-            <a class='{% if page.url == "info/" %}active{% endif %}' href='{{site.baseurl}}/info'>Info</a>
-            <a class='{% if page.url == "contact/" %}active{% endif %}' href='{{site.baseurl}}/contact'>Contact</a>
-            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/news'>News</a>
+            <a class='{% if page.url == "/" %}active{% endif %}' href='{{site.baseurl}}/'>About Us</a> 
+            <a class='{% if page.url == "/info/" %}active{% endif %}' href='{{site.baseurl}}/info'>Info</a>
+            <a class='{% if page.url == "/contact/" %}active{% endif %}' href='{{site.baseurl}}/contact'>Contact</a>
+            <a class='{% if page.section == "/news/" %}active{% endif %}' href='{{site.baseurl}}/news'>News</a>
           </div>
 
       </div>

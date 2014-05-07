@@ -6,11 +6,6 @@ callback([
   } ,
 
   {
-    "text": "Docs",
-    "href": "/our-documentation/"
-  } ,
-
-  {
     "text": "Info",
     "href": "/info/"
   } ,

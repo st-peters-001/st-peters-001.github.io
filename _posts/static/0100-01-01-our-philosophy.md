@@ -7,6 +7,7 @@ permalink: our-philosophy/
 We acknowledge the Cadigal people, the traditional owners of the land on which our preschool 
 stands and where we grow and learn.
 
+> %splash%
 ![Our philosophy](/img/philosophy.jpg)
 
 We believe that early childhood is a significant stage of life during which each child has the right to 
