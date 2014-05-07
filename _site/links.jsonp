@@ -2,32 +2,32 @@ callback([
 
   {
     "text": "About Us",
-    "href": "/about-us/"
+    "href": "//about-us/"
   } ,
 
   {
     "text": "Contact",
-    "href": "/contact/"
+    "href": "//contact/"
   } ,
 
   {
     "text": "Information",
-    "href": "/information/"
+    "href": "//information/"
   } ,
 
   {
     "text": "Family Day",
-    "href": "/blog/2014/05/07/Family-Day/"
+    "href": "//blog/2014/05/07/Family-Day/"
   } ,
 
   {
     "text": "Morning Tea",
-    "href": "/blog/2014/06/16/Morning-Tea/"
+    "href": "//blog/2014/06/16/Morning-Tea/"
   } ,
 
   {
     "text": "Working Bee",
-    "href": "/blog/2014/07/10/Working-Bee/"
+    "href": "//blog/2014/07/10/Working-Bee/"
   } 
 
 ])
