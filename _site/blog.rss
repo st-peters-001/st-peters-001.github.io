@@ -26,6 +26,16 @@
   <guid isPermaLink="true">/blog/2014/06/16/Morning-Tea/</guid>
 </item>
 <item>
+  <title>new-event</title>
+  <link>/blog/2014/05/08/new-event/</link>
+  <description>&lt;p&gt;This can be a new event&lt;/p&gt;
+
+</description>
+  <pubDate>2014-05-08T00:00:00+10:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/blog/2014/05/08/new-event/</guid>
+</item>
+<item>
   <title>Family Day</title>
   <link>/blog/2014/05/07/Family-Day/</link>
   <description>&lt;p&gt;Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.&lt;/p&gt;
@@ -34,6 +44,36 @@
   <pubDate>2014-05-07T00:00:00+10:00</pubDate>
   <dc:creator>SITE NAME</dc:creator>
   <guid isPermaLink="true">/blog/2014/05/07/Family-Day/</guid>
+</item>
+<item>
+  <title>Another New Event</title>
+  <link>/blog/2014/05/06/another-new-event/</link>
+  <description>&lt;h2&gt;A New Post&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+</description>
+  <pubDate>2014-05-06T00:00:00+10:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/blog/2014/05/06/another-new-event/</guid>
+</item>
+<item>
+  <title>A much newer event</title>
+  <link>/blog/2014/05/06/a-much-newer-event/</link>
+  <description>&lt;h2&gt;A New Post&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+</description>
+  <pubDate>2014-05-06T00:00:00+10:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/blog/2014/05/06/a-much-newer-event/</guid>
 </item>
 
 </channel>

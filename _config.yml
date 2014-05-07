@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://st-peters-001.github.io/'
   relativeLinks: 'http://st-peters-001.github.io/links.jsonp'
-  media: 'media'
+  media: 'img'
   metadata:
     _posts:
       - name: "category"

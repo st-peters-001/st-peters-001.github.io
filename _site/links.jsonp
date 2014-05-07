@@ -6,13 +6,28 @@ callback([
   } ,
 
   {
-    "text": "Info",
+    "text": "Untitled",
     "href": "/info/"
+  } ,
+
+  {
+    "text": "A much newer event",
+    "href": "/blog/2014/05/06/a-much-newer-event/"
+  } ,
+
+  {
+    "text": "Another New Event",
+    "href": "/blog/2014/05/06/another-new-event/"
   } ,
 
   {
     "text": "Family Day",
     "href": "/blog/2014/05/07/Family-Day/"
+  } ,
+
+  {
+    "text": "new-event",
+    "href": "/blog/2014/05/08/new-event/"
   } ,
 
   {
