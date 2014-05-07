@@ -401,7 +401,7 @@ table {
 .pad4h   { padding-left:40px; padding-right:40px; }
 .pad8    { padding:80px 40px; }
 .pad4c   { padding:40px; }
-.padtop  {padding-top: 20px; }
+.padtop  { padding-top: 20px; }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
