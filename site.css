@@ -44,7 +44,7 @@ body,
 input,
 textarea {
   color:#516066;
-  font:15px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font:17px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   }
 *, *:after, *:before {
@@ -336,7 +336,8 @@ table {
   text-align:right;
   }
   .menu a {
-    margin:0 0 0 10px;
+    margin-right: 10px;
+
     }
 
 .listing .item {
@@ -400,6 +401,7 @@ table {
 .pad4h   { padding-left:40px; padding-right:40px; }
 .pad8    { padding:80px 40px; }
 .pad4c   { padding:40px; }
+.padtop  {padding-top: 10px; }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */

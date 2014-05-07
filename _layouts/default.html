@@ -15,26 +15,35 @@ title: 'St Peters Community Preschool'
   <div class='container'>
     <div class='col12 clearfix'>
       <div class='header col6 margin3 pad4h'>
+
+          <img class="col3"src="{{site.baseurl}}/img/logo.jpg"></img>
+          <h1 class='col8 pad4h heading'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+          <hr>
+
         <div class='clearfix col12'>
-          <div class='menu fr'>
+          <div class='menu fl'>
             <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Events</a>
             <a class='{% if page.url == "about-us/" %}active{% endif %}' href='{{site.baseurl}}/about-us'>About Us</a>
             <a class='{% if page.url == "information/" %}active{% endif %}' href='{{site.baseurl}}/information'>Information</a>
             <a class='{% if page.url == "contact/" %}active{% endif %}' href='{{site.baseurl}}/contact'>Contact</a>
           </div>
-          <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
-          
-          {% if page.url == '/' %} 
-            <div class='col12 splash'>
-              <img src='img/homepage.jpg' alt='' />
-            </div>
-          {% endif %}
+
+        {% if page.url == '/' %} 
+          <div class='col12 splash home padtop'>
+            <img src='{{site.baseurl}}/img/homepage.jpg' alt='' />
+          </div>
+        {% endif %}
 
         </div>
       </div>
     </div>
-
-
+        {% if page.url == '/' %} 
+    <div class='listing col6 pad4h margin3'>
+      <div class='heading'>
+        <h1>Upcoming Events</h1>
+      </div>
+    </div>
+        {% endif %}
 
     {{content}}
   </div>
