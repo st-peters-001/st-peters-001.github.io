@@ -1,9 +1,10 @@
 ---
-published: true
 layout: page
-permalink: our-learning-spaces/
+published: true
+permalink: "our-learning-spaces/"
+title: Untitled
 ---
- 
+
 We set up our environment in a way that evokes a home like feel. Providing our children with 
 consistent and natural spaces, the children have the freedom to move and change the environment 
 around. Our environment is presented to the children with key learning centres that are consistent 
@@ -50,16 +51,3 @@ The fairy garden, a natural and beautiful space where children can explore and d
 ![Our picnic table and stage](/img/equipment.jpg)
 Our picnic table and stage. This space is used for various experiences, being another open ended and natural space where children can be. 
 
-> %splash%
-![An example of a block/construction experience](/img/blocks.jpg)
-An example of a block/construction experience. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
