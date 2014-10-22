@@ -5,7 +5,7 @@ permalink: "our-educators/"
 title: Our Staff
 ---
 
-
+![](/_posts/static/IMG_5188%203.jpg)
 
 Our team is made up of seven staff. All of our educators are university or TAFE trained in Early Childhood, and have a many years of experience in the field. We value ongoing professional development and staff regularly attend training to ensure that our program is based on current, progressive thinking and  research.
 
