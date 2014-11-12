@@ -16,7 +16,7 @@ Vanna Lockwood (BEd Early Childhood) is the Educational Leader of the team, and 
 
 ![](///_posts/static/IMG_5188%203.jpg)
 
-A recent reflection by Vanna ...
+**A recent reflection by Vanna ...**
 
 At St Peters Community Preschool our focus is on building authentic relationships with families and children. Growing a strong community comes from creating a sense of belonging based on understanding, respect and compassion for each other. The teachers at St Peters engage in reflective practice where we take time to consider and analyse the important role we have in the lives of children. Our practice is influenced by these reflections which help us to recognise and celebrate the dynamic nature of our role as teachers. 
 
