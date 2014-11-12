@@ -14,6 +14,8 @@ Laurel Walker (BEd Early Childhood)is the teaching director and has over 10 year
 Vanna Lockwood (BEd Early Childhood) is the Educational Leader of the team, and has 25 years experience in early education. Vanna also teaches at The Institute of Early Childhood at Macquarie University and is currently involved in research with a focus on literacy learning prior to school.
 
 
+
+
 A recent reflection by Vanna ...
 
 At St Peters Community Preschool our focus is on building authentic relationships with families and children. Growing a strong community comes from creating a sense of belonging based on understanding, respect and compassion for each other. The teachers at St Peters engage in reflective practice where we take time to consider and analyse the important role we have in the lives of children. Our practice is influenced by these reflections which help us to recognise and celebrate the dynamic nature of our role as teachers. 
